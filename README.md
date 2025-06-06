@@ -1,12 +1,12 @@
 # Hi there! 👋  
-I'm **Awais Saleem**, a **Senior Software Quality Assurance Engineer** with over **5 years of experience** in ensuring top-notch software quality. I specialize in creating comprehensive test plans, executing test cases, and improving QA processes to minimize bug leakage and enhance product stability. 🚀  
+I'm **Awais Saleem**, a **Senior Software Quality Assurance Engineer** with over **6 years of experience** in ensuring top-notch software quality. I specialize in creating comprehensive test plans, executing test cases, and improving QA processes to minimize bug leakage and enhance product stability. 🚀  
 
 ---
 
 ## 🌟 About Me  
 - **Current Role**: Senior SQA Engineer at **DaticsAI**.  
 - **Professional Experience**:  
-   - Expertise in functional, regression, performance, and sanity testing.  
+   - Expertise in functional and non functional testing.  
    - Mentoring and training QA teams to improve workflow and skill sets.  
    - Working within Agile methodologies, including sprint planning and daily scrums.  
 - **Key Achievements**:  
@@ -16,10 +16,10 @@ I'm **Awais Saleem**, a **Senior Software Quality Assurance Engineer** with over
 ---
 
 ## 🛠️ Skills & Tools  
-- **Testing Expertise**: Functional Testing, Regression Testing, Sanity Testing, UI/UX Testing, API Testing, Performance Testing.  
-- **Technologies**: Jira, n8n, TestRail, Postman, Cypress, JMeter, Git, Zephyr.  
+- **Testing Expertise**: Test Case Writing, Bug Reporting, Improvements, Functional Testing, Regression Testing, Sanity Testing, UI/UX Testing, API Testing, Performance Testing.  
+- **Technologies/Tools**: Jira, n8n, TestRail, Postman, Cypress, JMeter, Git, Zephyr.  
 - **Methodologies**: Agile, Scrum, SDLC, STLC.  
-- **Programming**: JavaScript, Database Testing.  
+- **Programming**: JavaScript, Dotnet, Database Testing.  
 - **Soft Skills**: Bug Tracking, Mentoring QA Teams, Collaboration with Cross-Functional Teams.  
 
 ---
@@ -28,17 +28,24 @@ I'm **Awais Saleem**, a **Senior Software Quality Assurance Engineer** with over
 
 ### **DaticsAI, Lahore**  
 **Senior Software Quality Assurance Engineer** (2022 - Present)  
-- Developed and executed structured test cases and scenarios for comprehensive test coverage.  
-- Implemented the bug life cycle process using tools like ClickUp, Jira, and Google Sheets.  
-- Performed functional, regression, and sanity testing to maintain product quality.  
-- Collaborated with developers and DevOps teams to resolve performance issues.  
-- Conducted system performance testing using **JMeter**, enhancing application reliability.  
-- Reduced deployment time with **GitHub Actions CI/CD workflows**.  
-- Prioritized bugs and aligned testing efforts with customer requirements to ensure timely delivery.  
-- Mentored QA team members, improving overall team performance and productivity.  
+- Worked on multiple projects across diverse domains, including the **USA property tax management applications, medical applications with AI, job portal platform, AI chatbots application, and many others**.
+- Designed and executed well-structured test cases and scenarios to ensure comprehensive test coverage.
+- Managed defect tracking and reporting in Jira and ClickUp, ensuring effective collaboration between teams.
+- Performed UAT and exploratory testing to identify potential UX/UI issues before production releases.
+- Managed deployments using GitHub Actions CI/CD workflows, reducing deployment time.
+- Provided mentorship and training to QA team members, enhancing their skills and performance.
+- Worked within Agile methodology, including sprint planning and daily scrums.
+- Achieved a 70% reduction in bug leakage through optimized regression and sanity testing processes.
+- Ensured timely project delivery by prioritizing reported bugs and aligning with customer requirements.
+- Evaluated and assigned daily tasks to the QA team for efficient workflow management.
+- Collaborated with developers and DevOps teams to resolve performance-related issues.
+- Conducted system performance testing using JMeter to improve application reliability.
+- Enhanced QA processes to minimize bug leakage and improve overall product quality.
+- Identified and highlighted opportunities for improving user experience.
+- Collaborated with project teams, developers, DevOps, business analysts, and clients to define and clarify test requirements.
 
 ### **Softvilla Business Solutions & Services Pvt Ltd, Lahore**  
-**Software Quality Assurance Engineer** (2020 - 2022)  
+**Software Quality Assurance Engineer** (2019 - 2022)  
 - Created and executed test cases for web and mobile applications.  
 - Performed functional and regression testing.  
 - Collaborated with stakeholders to understand project scope and requirements.  
