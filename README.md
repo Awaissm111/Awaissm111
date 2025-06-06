@@ -62,9 +62,13 @@ I'm **Awais Saleem**, a **Senior Software Quality Assurance Engineer** with over
 
 ## 🔬 Projects  
 
-### 🔐 **Secure Tax Office**  
-A secure, automated property tax management system enhancing efficiency for taxpayers and authorities.  
-**Features**: Online payment options, automated error reduction, and transparent tax distribution.  
+###  🔐 **Secure Tax Office**
+A secure and modernized property tax management system designed to automate the entire process of tax collection, reconciliation, and distribution across the USA. It eliminates manual efforts, enhances accuracy, and improves efficiency for both taxpayers and government authorities.
+**Features**: Online tax payments, multi-method support (ACH, credit card, cash, checks), automated processing to minimize errors, real-time reconciliation, and transparent fund distribution to relevant departments.
+
+🤖 **Flzr – AI Sales Assistant**
+An AI-powered chatbot assistant built to automate and streamline customer interactions and sales inquiries, enhancing user engagement and lead conversion. Focused on delivering accurate, real-time responses integrated with sales workflows.
+**Features**: Intelligent conversation handling, sales inquiry resolution, seamless UI integration, continuous learning through AI feedback loops, and real-time support for potential customers.
 
 ### 📋 **PHRS**  
 A recruitment platform connecting candidates, employers, and agencies.  
