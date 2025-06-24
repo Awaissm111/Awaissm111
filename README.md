@@ -10,7 +10,7 @@ I'm **Awais Saleem**, a **Senior Software Quality Assurance Engineer** with over
    - Mentoring and training QA teams to improve workflow and skill sets.  
    - Working within Agile methodologies, including sprint planning and daily scrums.  
 - **Key Achievements**:  
-   - Reduced bug leakage by 70% through optimized testing processes.  
+   - Reduced bug leakage by 40% through optimized testing processes.  
    - Implemented CI/CD workflows using GitHub Actions, reducing deployment time.  
 
 ---
@@ -45,7 +45,7 @@ I'm **Awais Saleem**, a **Senior Software Quality Assurance Engineer** with over
 - Collaborated with project teams, developers, DevOps, business analysts, and clients to define and clarify test requirements.
 
 ### **Softvilla Business Solutions & Services Pvt Ltd, Lahore**  
-**Software Quality Assurance Engineer** (2019 - 2022)  
+**Software Quality Assurance Engineer** (2020 - 2022)  
 - Created and executed test cases for web and mobile applications.  
 - Performed functional and regression testing.  
 - Collaborated with stakeholders to understand project scope and requirements.  
@@ -53,7 +53,7 @@ I'm **Awais Saleem**, a **Senior Software Quality Assurance Engineer** with over
 - Provided accurate task estimations to streamline sprint completion.  
 
 ### **Ascend BPO, Lahore**  
-**Software Quality Assurance Engineer** (2018 - 2019)  
+**Associate Software Quality Assurance Engineer** (2019 - 2020)  
 - Developed and executed test cases for web applications.  
 - Conducted UI/UX testing for better user experience and accessibility.  
 - Ensured integration of user interfaces with external systems.  
