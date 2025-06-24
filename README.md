@@ -35,7 +35,7 @@ I'm **Awais Saleem**, a **Senior Software Quality Assurance Engineer** with over
 - Managed deployments using GitHub Actions CI/CD workflows, reducing deployment time.
 - Provided mentorship and training to QA team members, enhancing their skills and performance.
 - Worked within Agile methodology, including sprint planning and daily scrums.
-- Achieved a 70% reduction in bug leakage through optimized regression and sanity testing processes.
+- Achieved a 40% reduction in bug leakage through optimized regression and sanity testing processes.
 - Ensured timely project delivery by prioritizing reported bugs and aligning with customer requirements.
 - Evaluated and assigned daily tasks to the QA team for efficient workflow management.
 - Collaborated with developers and DevOps teams to resolve performance-related issues.
