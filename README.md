@@ -16,11 +16,8 @@ I'm **Awais Saleem**, a **Senior Software Quality Assurance Engineer** with over
 ---
 
 ## 🛠️ Skills & Tools  
-- **Testing Expertise**: Test Case Writing, Bug Reporting, Improvements, Functional Testing, Regression Testing, Sanity Testing, UI/UX Testing, API Testing, Performance Testing.  
-- **Technologies/Tools**: Jira, n8n, TestRail, Postman, Cypress, JMeter, Git, Zephyr.  
-- **Methodologies**: Agile, Scrum, SDLC, STLC.  
-- **Programming**: JavaScript, Dotnet, Database Testing.  
-- **Soft Skills**: Bug Tracking, Mentoring QA Teams, Collaboration with Cross-Functional Teams.  
+- **Skills**: Test Planning, Test Case Writing, Test Case Execution, Bug Tracking and Reporting, Regression Testing, Exploratory Testing, Functional Testing, Sanity Testing, API Testing, UI Testing, Attention to Detail, Mobile Testing, Web Testing, Client Communication, Manual Testing, Automation Testing, Database Testing, CI/CD Pipelines.  
+- **Tools**: Jira, ClickUp, TestRail, Postman, n8n, JMeter, Cypress, Zephyr, Postgres, SQL.  
 
 ---
 
