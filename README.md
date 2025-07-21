@@ -1,5 +1,5 @@
 # Hi there! 👋  
-I'm **Awais Saleem**, a **Senior Software Quality Assurance Engineer** with over **5 years of experience** in ensuring top-notch software quality. I specialize in creating comprehensive test plans, executing test cases, and improving QA processes to minimize bug leakage and enhance product stability. 🚀  
+I'm **Awais Saleem**, a **Senior Software Quality Assurance Engineer** with over **5 years of experience** in testing and end to end QA process of web and mobile applications across US financial, healthcare, and Al chatbot applications. Proficient in functional, regression, sanity, exploratory, and Al-driven test case design and execution. Contributed to faster release cycles with CI/CD pipelines integration. Strong understanding of Agile methodologies, cross-team collaboration, and quality ownership throughout SDLC. I aim to ensure product quality and support continuous QA improvement in your organization.
 
 ---
 
