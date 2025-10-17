@@ -4,7 +4,7 @@ I'm **Awais Saleem, AI-driven Sr. Software QA Engineer - ISTQB Certified** with 
 ---
 
 ## 🌟 About Me  
-- **Current Role**: Senior SQA Engineer at **DaticsAI**.  
+- **Current Role**: Senior Software QA Engineer at **Stewart Title**.  
 - **Professional Experience**:  
    - Expertise in functional and non functional testing.  
    - Mentoring and training QA teams to improve workflow and skill sets.  
