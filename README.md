@@ -21,9 +21,16 @@ I'm **Awais Saleem**, AI-driven Sr. Software QA Engineer - ISTQB Certified with 
 ---
 
 ## 📂 Professional Experience  
+### **Stewart Title**
+**Senior Software QA Engineer** (2025 - Present)
+- Collaborated with BAs and Product Owners to ensure user stories met requirements traceability, testability, and business alignment.
+- Executed functional and UAT testing for US AML, financial, and title insurance applications.
+- Utilized Azure DevOps for test case management, defect tracking, and sprint backlog.
+- Automated workflows via Microsoft PowerApps and developed test metrics dashboards for enhanced reporting and stakeholder visibility.
+- Drove QA process improvements through continuous feedback and cross-team collaboration, boosting efficiency and compliance.
 
 ### **DaticsAI, Lahore**  
-**Senior Software Quality Assurance Engineer** (2022 - Present)  
+**Senior Software Quality Assurance Engineer** (2022 - 2025)  
 - Worked on multiple projects across diverse domains, including the **USA property tax management applications, medical applications with AI, job portal platform, AI chatbots application, and many others**.
 - Designed and executed well-structured test cases and scenarios to ensure comprehensive test coverage.
 - Managed defect tracking and reporting in Jira and ClickUp, ensuring effective collaboration between teams.
