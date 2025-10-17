@@ -1,6 +1,6 @@
 # Hi there! 👋  
-I'm **Awais Saleem, AI-driven Sr. Software QA Engineer - ISTQB Certified** with hands-on experience in end-to-end testing of web and mobile applications across domains like U.S. financial, online payments, insurances, AI-powered job portals, and LLM-based chatbots applications. Proficient in designing and executing AI-enhanced test cases, boosting automation efficiency and test coverage. Skilled in QA methodologies and processes improvements with strong command of tools. Agile/Scrum-experienced, collaborating cross-functionally to ensure quality.
- I deliver reduced defects, faster releases, and scalable AI-powered QA practices for high-quality software.
+I'm **Awais Saleem**, AI-driven **Sr. Software QA Engineer - ISTQB Certified** with hands-on experience in end-to-end testing of web and mobile applications across domains like U.S. financial, online payments, insurances, AI-powered job portals, and LLM-based chatbots applications. Proficient in designing and executing AI-enhanced test cases, boosting automation efficiency and test coverage. Skilled in QA methodologies and processes improvements with strong command of tools. Agile/Scrum-experienced, collaborating cross-functionally to ensure quality. **I deliver reduced defects, faster releases, and scalable AI-powered QA practices for high-quality software.**
+
 ---
 
 ## 🌟 About Me  
