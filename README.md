@@ -95,7 +95,7 @@ A customizable clothing platform offering options for fabric, colors, and design
 ## 🏆 Achievements & Certifications  
 - **Hackathon Winner**: Recognized by the Punjab Information Technology Board.  
 - Certifications:  
-   - ISTQB 4.0 Foundation Cert Prep
+   - ISTQB 4.0 Certified Tester Foundation Level (CTFL) v4.0
    - Prompt Engineering: How to Talk to the AIs
    - Manual SQA Training (Web & Mobile) by SQA Training.  
    - TOT SQA by Techlift.  
