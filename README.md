@@ -1,113 +1,140 @@
-# Hi there! 👋  
-I'm **Awais Saleem**, AI-driven **Sr. Software QA Engineer - ISTQB Certified** with hands-on experience in end-to-end testing of web and mobile applications across domains like U.S. financial, online payments, insurances, AI-powered job portals, and LLM-based chatbots applications. Proficient in designing and executing AI-enhanced test cases, boosting automation efficiency and test coverage. Skilled in QA methodologies and processes improvements with strong command of tools. Agile/Scrum-experienced, collaborating cross-functionally to ensure quality. **I deliver reduced defects, faster releases, and scalable AI-powered QA practices for high-quality software.**
+# Hi there! 👋
+
+I'm **Awais Saleem**, AI-driven **Sr. Software QA Engineer - ISTQB Certified** with hands-on experience in end-to-end testing of web and mobile applications across domains like U.S. financial, online payments, insurances, AI-powered job portals, and LLM-based chatbots applications. Proficient in designing and executing AI-enhanced test cases, boosting automation efficiency and test coverage. Skilled in QA methodologies and processes improvements with strong command of tools. Agile/Scrum-experienced, collaborating cross-functionally to ensure quality. **I deliver reduced defects, faster, stable and quality releases, and scalable QA/QC practices for high-quality software.**
 
 ---
 
-## 🌟 About Me  
-- **Current Role**: Senior Software QA Engineer at **Stewart Title**.  
-- **Professional Experience**:  
-   - Expertise in functional and non functional testing.  
-   - Mentoring and training QA teams to improve workflow and skill sets.  
-   - Working within Agile methodologies, including sprint planning and daily scrums.  
-- **Key Achievements**:  
-   - Reduced bug leakage by 40% through optimized testing processes.  
-   - Implemented CI/CD workflows using GitHub Actions, reducing deployment time.  
+## 🌟 About Me
+
+* **Current Role**: Sr. Software QA Engineer at **Stewart Title**.
+* **Professional Experience**:
+  + Expertise in functional and non-functional testing.
+  + Mentoring and training QA teams to improve workflow and skill sets.
+  + Working within Agile methodologies, including sprint planning and daily scrums.
+* **Key Achievements**:
+  + Reduced bug leakage by 70% through optimized testing strategies and root cause analysis.
+  + Improved test coverage by 60% through regression, smoke, sanity, and database testing.
+  + Shortened delivery timelines by 25% through early sprint planning and requirement analysis.
 
 ---
 
-## 🛠️ Skills & Tools  
-- **Skills**: Test Planning, Test Case Writing, Test Case Execution, Bug Tracking and Reporting, Regression Testing, Exploratory Testing, Functional Testing, Sanity Testing, API Testing, UI Testing, Attention to Detail, Mobile Testing, Web Testing, Client Communication, Manual Testing, Automation Testing, Database Testing, CI/CD Pipelines.  
-- **Tools**: Jira, ClickUp, TestRail, Postman, n8n, JMeter, Cypress, Zephyr, Postgres, SQL.  
+## 🛠️ Skills & Tools
+
+* **Skills**: Test Planning, Test Case Writing, Bug Tracking, Regression Testing, Exploratory Testing, Functional Testing, Sanity Testing, Github, API Testing, UI Testing, Attention to Detail, Mobile Testing, Web Testing, Client Communication, Manual Testing, Automation Testing, Database Testing, CI/CD Pipelines.
+* **Tools**: Jira, ClickUp, TestRail, Postman, n8n, JMeter, Cypress, Zephyr, SQL/Postgres, Azure DevOps, Microsoft PowerApps.
 
 ---
 
-## 📂 Professional Experience  
+## 📂 Professional Experience
+
 ### **Stewart Title**
-**Senior Software QA Engineer** (2025 - Present)
-- Collaborated with BAs and Product Owners to ensure user stories met requirements traceability, testability, and business alignment.
-- Executed functional and UAT testing for US AML, financial, and title insurance applications.
-- Utilized Azure DevOps for test case management, defect tracking, and sprint backlog.
-- Automated workflows via Microsoft PowerApps and developed test metrics dashboards for enhanced reporting and stakeholder visibility.
-- Drove QA process improvements through continuous feedback and cross-team collaboration, boosting efficiency and compliance.
 
-### **DaticsAI, Lahore**  
-**Senior Software Quality Assurance Engineer** (2022 - 2025)  
-- Worked on multiple projects across diverse domains, including the **USA property tax management applications, medical applications with AI, job portal platform, AI chatbots application, and many others**.
-- Designed and executed well-structured test cases and scenarios to ensure comprehensive test coverage.
-- Managed defect tracking and reporting in Jira and ClickUp, ensuring effective collaboration between teams.
-- Performed UAT and exploratory testing to identify potential UX/UI issues before production releases.
-- Managed deployments using GitHub Actions CI/CD workflows, reducing deployment time.
-- Provided mentorship and training to QA team members, enhancing their skills and performance.
-- Worked within Agile methodology, including sprint planning and daily scrums.
-- Achieved a 40% reduction in bug leakage through optimized regression and sanity testing processes.
-- Ensured timely project delivery by prioritizing reported bugs and aligning with customer requirements.
-- Evaluated and assigned daily tasks to the QA team for efficient workflow management.
-- Collaborated with developers and DevOps teams to resolve performance-related issues.
-- Conducted system performance testing using JMeter to improve application reliability.
-- Enhanced QA processes to minimize bug leakage and improve overall product quality.
-- Identified and highlighted opportunities for improving user experience.
-- Collaborated with project teams, developers, DevOps, business analysts, and clients to define and clarify test requirements.
+**Sr. Software QA Engineer** (09/2025 - Present)
 
-### **Softvilla Business Solutions & Services Pvt Ltd, Lahore**  
-**Software Quality Assurance Engineer** (2020 - 2022)  
-- Created and executed test cases for web and mobile applications.  
-- Performed functional and regression testing.  
-- Collaborated with stakeholders to understand project scope and requirements.  
-- Used **JIRA** for bug tracking and reporting.  
-- Provided accurate task estimations to streamline sprint completion.  
+**Projects:** Fincen AML
 
-### **Ascend BPO, Lahore**  
-**Associate Software Quality Assurance Engineer** (2019 - 2020)  
-- Developed and executed test cases for web applications.  
-- Conducted UI/UX testing for better user experience and accessibility.  
-- Ensured integration of user interfaces with external systems.  
+* Collaborated with BAs and Product Owners to ensure user stories met requirements traceability, testability, and business alignment.
+* Executed functional and UAT testing for US AML, financial, and title insurance applications.
+* Utilized Azure DevOps for test case management, defect tracking, and sprint backlog.
+* Automated workflows via Microsoft PowerApps and developed test metrics dashboards for enhanced reporting and stakeholder visibility.
+* Drove QA process improvements through continuous feedback and cross-team collaboration, boosting efficiency and compliance.
+
+### **DaticsAI, Lahore**
+
+**Senior Software Quality Assurance Engineer** (07/2022 - 06/2025)
+
+**Projects:** Secure Tax Office | Flzr | PHRS | Online Payment Portal
+
+* Worked on U.S. financial and online payment applications, AI and LLM-based chatbots, AI sales assistants, and intelligent job portals, with data verification using Django Admin Panel.
+* Integrated CI/CD pipelines to improve test case coverage, QA workflows, and automation.
+* Implemented regression, smoke, sanity, and database testing improving coverage by 60%.
+* Reduced bug leakage by 70% through testing strategies and root cause analysis.
+* Shortened delivery timelines by 25% through early sprint planning and requirement analysis.
+* Conducted UAT to identify and resolve critical UI/UX and logic-level issues.
+* Mentored QA team to improve test accuracy and accelerate onboarding.
+* Ensured timely releases by aligning defect priorities with sprint goals.
+* Collaborated in daily stand-ups to define scope and refine acceptance criteria.
+
+### **Softvilla Business Solutions & Services Pvt Ltd, Lahore**
+
+**Software Quality Assurance Engineer** (05/2020 - 06/2022)
+
+**Projects:** Modern Education System
+
+* Applied structured test management and defect lifecycle from discovery to resolution for web and mobile including Android and iOS applications.
+* Conducted user acceptance testing, regression testing, and reduced post-release defects.
+
+### **Ascend BPO Services, Lahore**
+
+**Associate Software Quality Assurance Engineer** (09/2019 - 04/2020)
+
+**Projects:** iAscend
+
+* Executed testing for healthcare applications, ensuring accuracy in workflows and claims.
+* Reported and tracked bugs with clear documentation for timely resolution.
+* Collaborated with stakeholders to requirements analysis and align web testing with sprints.
 
 ---
 
-## 🔬 Projects  
+## 🔬 Projects
 
-###  🔐 **Secure Tax Office**
+### 🔐 **Secure Tax Office**
+
 A secure and modernized property tax management system designed to automate the entire process of tax collection, reconciliation, and distribution across the USA. It eliminates manual efforts, enhances accuracy, and improves efficiency for both taxpayers and government authorities.  
 **Features**: Online tax payments, multi-method support (ACH, credit card, cash, checks), automated processing to minimize errors, real-time reconciliation, and transparent fund distribution to relevant departments.
 
 ### 🤖 **Flzr – AI Sales Assistant**
+
 An AI-powered chatbot assistant built to automate and streamline customer interactions and sales inquiries, enhancing user engagement and lead conversion. Focused on delivering accurate, real-time responses integrated with sales workflows.  
 **Features**: Intelligent conversation handling, sales inquiry resolution, seamless UI integration, continuous learning through AI feedback loops, and real-time support for potential customers.
 
-### 📋 **PHRS**  
+### 📋 **PHRS**
+
 A recruitment platform connecting candidates, employers, and agencies.  
-**Features**: AI-powered resume assistance, profile verification, and job search capabilities.  
+**Features**: AI-powered resume assistance, profile verification, and job search capabilities.
 
-### 🚗 **Automatic Vehicle Number Plate Recognition**  
-OCR-based solution for vehicle license plate recognition.  
-**Features**: Traffic monitoring, toll collection, stolen vehicle detection, and access control.  
+### 💳 **Online Payment Portal**
 
-### 👔 **Readywear**  
-A customizable clothing platform offering options for fabric, colors, and design elements.  
-**Features**: Digital previews, order tracking, and a user-friendly interface.  
+U.S. financial and online payment application with secure transaction processing.  
+**Features**: Multi-payment method support, real-time transaction verification, and compliance with financial regulations.
 
----
+### 🏥 **iAscend**
 
-## 🎓 Education  
-- **Bachelor in Computer Science (BSCS)**, Superior University, Lahore.  
+Healthcare application ensuring accuracy in workflows and claims processing.  
+**Features**: Patient workflow management, claims tracking, and healthcare data validation.
 
----
+### 🎓 **Modern Education System**
 
-## 🏆 Achievements & Certifications  
-- **Hackathon Winner**: Recognized by the Punjab Information Technology Board.  
-- Certifications:  
-   - ISTQB Certified Tester Foundation Level (CTFL) v4.0
-   - Prompt Engineering: How to Talk to the AIs
-   - Manual SQA Training (Web & Mobile) by SQA Training.  
-   - TOT SQA by Techlift.  
-   - Jira Software Certificate (LinkedIn).  
-   - Chief Minister Punjab IT Program E-Rozgaar (PITB).  
-   - SMBs Certification by Facebook.  
+Comprehensive education management system for web and mobile platforms.  
+**Features**: Student management, course tracking, Android and iOS mobile applications.
 
 ---
 
+## 🎓 Education
 
-## 📫 Connect with Me  
-- 📧 Email: [awaissm111@gmail.com](mailto:awaissm111@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/awaissm111](https://linkedin.com/in/awaissm111)  
-- 🌍 Location: Lahore, Pakistan
+* **Bachelor in Computer Science (BSCS 4 Years)**, Superior University, Lahore.
+
+---
+
+## 🏆 Achievements & Certifications
+
+* **Consistent Performer of the Year**: DaticsAI
+* **Star of Quarters**: DaticsAI
+* **Hackathon Winner**: Recognized by the Punjab Information Technology Board (PITB).
+* Certifications:
+  + ISTQB Certified Tester Foundation Level (CTFL) v4.0
+  + Prompt Engineering: How to Talk to the AIs
+  + Manual SQA Training (Web & Mobile) by SQA Trainings.
+  + TOT SQA by Techlift.
+  + Jira Certification
+
+---
+
+## 📫 Connect with Me
+
+* 📧 Email: [awaissm111@gmail.com](mailto:awaissm111@gmail.com)
+* 💼 LinkedIn: [linkedin.com/in/awaissm111](https://linkedin.com/in/awaissm111)
+* 🌐 Website: [www.awaissaleem.com](https://www.awaissaleem.com)
+* 📱 Phone: +923333330517
+* 🌍 Location: Lahore, Pakistan
+* 💼 Status: Immediate Joiner | Willing to Relocate
